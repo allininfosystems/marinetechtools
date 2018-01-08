@@ -21,8 +21,8 @@ return array (
       array (
         'host' => 'localhost',
         'dbname' => 'marinetechtools',
-        'username' => 'marinetechtools',
-        'password' => 'aTXPO3EkNLAZYXFL',
+        'username' => 'root',
+        'password' => '',
         'active' => '1',
       ),
     ),
@@ -35,7 +35,7 @@ return array (
     ),
   ),
   'x-frame-options' => 'SAMEORIGIN',
-  'MAGE_MODE' => 'production',
+  'MAGE_MODE' => 'developer',
   'cache_types' => 
   array (
     'config' => 1,

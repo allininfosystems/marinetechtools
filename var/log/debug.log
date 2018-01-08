@@ -1,0 +1,3 @@
+[2018-01-08 07:12:12] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["interception","CONFIG"],"mode":"matchingTag"}} []
+[2018-01-08 07:12:20] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["interception","CONFIG"],"mode":"matchingTag"}} []
+[2018-01-08 07:16:59] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http://localhost/marinetechtools/admin/catalog/product/index/key/9991db2740d2988ad705ee553df06408a1d831fabfcc41634b536b1ec2aeb91f/","invalidateInfo":{"tags":["interception","CONFIG"],"mode":"matchingTag"}} []
