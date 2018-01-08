@@ -1,2 +1,2 @@
-a:4:{s:4:"hash";s:0:"";s:5:"mtime";i:1515395824;s:6:"expire";i:1515399424;s:4:"tags";s:62:"191_M2EPRO_EXTENSION_MAIN,191_M2EPRO_EXTENSION_WIZARD,191_MAGE";}
+a:4:{s:4:"hash";s:0:"";s:5:"mtime";i:1515401126;s:6:"expire";i:1515404726;s:4:"tags";s:62:"191_M2EPRO_EXTENSION_MAIN,191_M2EPRO_EXTENSION_WIZARD,191_MAGE";}
 s:400:"{"migrationFromMagento1":{"id":"1","nick":"migrationFromMagento1","view":"*","status":"2","step":null,"type":"1","priority":"1"},"installationEbay":{"id":"2","nick":"installationEbay","view":"ebay","status":"2","step":"categoryStepThree","type":"1","priority":"2"},"installationAmazon":{"id":"3","nick":"installationAmazon","view":"amazon","status":"2","step":"searchAsin","type":"1","priority":"3"}}";
